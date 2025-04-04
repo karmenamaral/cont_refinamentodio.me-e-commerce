@@ -25,9 +25,9 @@ Este projeto representa a modelagem e implementação de um banco de dados para 
 
 ## Execução
 
-1. Crie o banco `ecommerce`
-2. Execute o script `schema.sql` para criar as tabelas
-3. Execute o script `insert.sql` para popular dados
-4. Execute as queries em `queries.sql` para análise
+1. Crie o banco `ecommerce_criacao_v1.sql`
+2. Execute o script `ecommerce_criacao_v1.sql` para criar as tabelas
+3. Execute o script `ecommerce_insertv1.sql` para popular dados
+4. Execute as queries em `ecommerce_consultasv1.sql` para análise
 
 
